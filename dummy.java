@@ -23,8 +23,9 @@ static void towerOfHanoi(int n, char from_rod,
 // Driver code
 public static void main(String args[])
 {
-	int n = 4; // Number of disks
+	int n = 4; 
 	towerOfHanoi(n, 'A', 'C', 'B'); // A, B and C are names of rods
 }
 }
+
 
